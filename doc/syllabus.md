@@ -16,7 +16,7 @@
 * Experiment: 10%
 * Analysis: 10%
 * 3 Synthesis: 30%
-* 
+* Final: 30%
 
 ## Proposal
 

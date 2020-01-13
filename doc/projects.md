@@ -1,10 +1,4 @@
-# Project Proposal
-
-A proposal must include:
-
-* A description of the proposed task.
-* The importance of the proposed task.
-* 
+# Projects
 
 ## Spring 2020
 

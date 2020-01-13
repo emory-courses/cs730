@@ -30,8 +30,8 @@
 |04/08| [Analysis]() |  |
 |04/13| TBA |  |
 |04/15| TBA |  |
-|04/20| [Final Presentation]() | [hw 8]() |
-|04/22| [Final Presentation]() |  |
+|04/20| [Final]() | [hw 8]() |
+|04/22| [Final]() |  |
 |04/27| TBA |  |
 
 ## Conferences
