@@ -11,7 +11,7 @@ Create a section called `Introduction` and write the followings (preferably in o
 * Significance (novelty, intellectual merits, and broader impact) of the proposed work.
 * List of contributions.
 
-Every point mst be made with evidences.
+Every point must be made with evidences.
 Cite relevant (and high impact) papers to make your point stronger.
 No need to explain them explicitly in this section, which will be done in the `Releated Work` section.
 
@@ -26,4 +26,5 @@ Create slides for a 15-min presentation that comprises the followings:
 
 ## Submission
 
-Submit the report and the slides in PDF: https://canvas.emory.edu/courses/68418/assignments/292959
+* The report must be about 1.5 pages (3 columns) including a dummy abstract.
+* Submit the report and the slides in PDF: https://canvas.emory.edu/courses/68418/assignments/292959

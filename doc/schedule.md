@@ -5,13 +5,13 @@
 |01/13| [Introduction](syllabus.md) | [hw 0](getting_started.md) |
 |01/15| [Advanced NLP]() |  |
 |01/20| MLK Holiday |  |
-|01/22| [Proposal](proposal.md) | [hw 1]() |
+|01/22| [Proposal](proposal.md) | [hw 1](proposal.md) |
 |01/27| [Proposal](proposal.md) |  |
 |01/29| Peer Study | |
-|02/03| [Synthesis 1]() |  |
-|02/05| [Synthesis 1]() | [hw 2]() |
-|02/10| [Synthesis 1]() |  |
-|02/12| [Synthesis 1]() |  |
+|02/03| [Synthesis 1](synthesis.md) |  |
+|02/05| [Synthesis 1](synthesis.md) | [hw 2](synthesis.md) |
+|02/10| [Synthesis 1](synthesis.md) |  |
+|02/12| [Synthesis 1](synthesis.md) |  |
 |02/17| [Approach]() | [hw 3]() |
 |02/19| [Approach]() |  |
 |02/24| [Synthesis 2]() |  |
