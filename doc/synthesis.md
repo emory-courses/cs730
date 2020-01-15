@@ -11,11 +11,13 @@ Create slides for a 30-min presentation that describes the followings:
 
 ## Report
 
-Create (or update) a section called `Related Work` and write the contents in the slides.
-Group related work into subsections if necessary.
+* Create (or update) a section called `Related Work` and write the contents in the slides.
+* Make sure to include similarity/difference/weakness comparisons between each paper and your work.
+* Group related work into subsections if necessary.
 
 ## Submissions
 
+Submit the report and the slides in PDFs:
 * Phase 1: https://canvas.emory.edu/courses/68418/assignments/292960
-* Phase 2: TBA
+* Phase 2: https://canvas.emory.edu/courses/68418/assignments/295927
 * Phase 3: TBA

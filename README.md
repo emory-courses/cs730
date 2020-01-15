@@ -5,3 +5,4 @@ This is a seminar course focusing on advanced topics in natural language process
 
 * [Syllabus](doc/syllabus.md)
 * [Schedule](doc/schedule.md)
+* Projects: [2020](doc/projects_2020.md)

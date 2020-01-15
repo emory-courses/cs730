@@ -1,38 +1,38 @@
 # Schedule
 
-| Date | Topic | Assignment |
-|:---:|:---:|:---:|
-|01/13| [Introduction](syllabus.md) | [hw 0](getting_started.md) |
-|01/15| [Advanced NLP]() |  |
-|01/20| MLK Holiday |  |
-|01/22| [Proposal](proposal.md) | [hw 1](proposal.md) |
-|01/27| [Proposal](proposal.md) |  |
-|01/29| Peer Study | |
-|02/03| [Synthesis 1](synthesis.md) |  |
-|02/05| [Synthesis 1](synthesis.md) | [hw 2](synthesis.md) |
-|02/10| [Synthesis 1](synthesis.md) |  |
-|02/12| [Synthesis 1](synthesis.md) |  |
-|02/17| [Approach]() | [hw 3]() |
-|02/19| [Approach]() |  |
-|02/24| [Synthesis 2]() |  |
-|02/26| [Synthesis 2]() |  |
-|03/02| [Synthesis 2]() |  |
-|03/04| [Synthesis 2]() | [hw 4]() |
-|03/09| Spring Break |  |
-|03/11| Spring Break |  |
-|03/16| [Experiment]() | [hw 5]() |
-|03/18| [Experiment]() |  |
-|03/23| [Synthesis 3]() |  |
-|03/25| [Synthesis 3]() |  |
-|03/30| [Synthesis 3]() | [hw 6]() |
-|04/01| [Synthesis 3]() |  |
-|04/06| [Analysis]() | [hw 7]() |
-|04/08| [Analysis]() |  |
-|04/13| TBA |  |
-|04/15| TBA |  |
-|04/20| [Final]() | [hw 8]() |
-|04/22| [Final]() |  |
-|04/27| TBA |  |
+| Date | Topic | Homework | Presenter |
+|:---:|:---:|:---:|---|
+|01/13| [Introduction](syllabus.md) | [hw 0](getting_started.md) |  |
+|01/15| Peer Study |  |  |
+|01/20| MLK Holiday |  |  |
+|01/22| [Proposal](proposal.md) | [hw 1](proposal.md) | Dong, Fillwock, Guo, ? |
+|01/27| [Proposal](proposal.md) |  | Lim, Lu, Xu, ? |
+|01/29| CS Seminar |  |  |
+|02/03| [Synthesis 1](synthesis.md) |  | Dong, Guo |
+|02/05| [Synthesis 1](synthesis.md) | [hw 2](synthesis.md) | Fillwock, Xu |
+|02/10| [Synthesis 1](synthesis.md) |  | Lim, Lu |
+|02/12| [Synthesis 1](synthesis.md) |  | Finch, He |
+|02/17| [Approach](approach.md) | [hw 3](approach.md) | Dong, Fillwock, Guo, Xu |
+|02/19| [Approach](approach.md) |  | Finch, He, Lim, Lu  |
+|02/24| [Synthesis 2](synthesis.md) |  | Fillwock, Guo |
+|02/26| [Synthesis 2](synthesis.md) |  | Lu, Xu |
+|03/02| [Synthesis 2](synthesis.md) |  | Lim, ? |
+|03/04| [Synthesis 2](synthesis.md) | [hw 4](synthesis.md) | Dong, ? |
+|03/09| Spring Break |  |  |
+|03/11| Spring Break |  |  |
+|03/16| [Experiment](experiment.md) | [hw 5](experiment.md) | Dong, Guo, ?, ? |
+|03/18| [Experiment](experiment.md) |  | Lim, Lu, Xu, ? |
+|03/23| [Synthesis 3](synthesis.md) |  | Dong, Guo |
+|03/25| [Synthesis 3](synthesis.md) |  | Lu, Xu |
+|03/30| [Synthesis 3](synthesis.md) | [hw 6](synthesis.md) | Fillwock, Lim |
+|04/01| [Synthesis 3](synthesis.md) |  | Finch, He |
+|04/06| [Analysis](analysis.md) | [hw 7](analysis.md) | Dong, Guo, Lu, ? |
+|04/08| [Analysis](analysis.md) |  | Fillwock, Lim, Xu, ? |
+|04/13| TBA |  |  |
+|04/15| TBA |  |  |
+|04/20| [Final](final.md) | [hw 8](final.md) | Dong, Fillwock, Guo, Lu |
+|04/22| [Final](final.md) |  | He, Finch, Lim, Xu |
+|04/27| TBA |  |  |
 
 ## Conferences
 

@@ -26,5 +26,5 @@ Create slides for a 15-min presentation that comprises the followings:
 
 ## Submission
 
-* The report must be about 1.5 pages (3 columns) including a dummy abstract.
+* `Introduction` must be 1~1.5 pages (2~3 columns).
 * Submit the report and the slides in PDF: https://canvas.emory.edu/courses/68418/assignments/292959
