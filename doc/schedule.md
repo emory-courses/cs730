@@ -1,38 +1,49 @@
 # Schedule
 
-| Date | Topic | Homework | Presenter |
-|:---:|:---:|:---:|---|
+| Date | Topic | HW | Presenters |
+|:---:|:---:|:---:|:---:|
 |01/13| [Introduction](syllabus.md) | [hw 0](getting_started.md) |  |
-|01/15| Peer Study |  |  |
+|01/15| Topic Search |  |  |
 |01/20| MLK Holiday |  |  |
-|01/22| [Proposal](proposal.md) | [hw 1](proposal.md) | Dong, Fillwock, Guo, ? |
-|01/27| [Proposal](proposal.md) |  | Lim, Lu, Xu, ? |
+|01/22| [Proposal](proposal.md) | [hw 1](proposal.md) | SF, YG, XD |
+|01/27| [Proposal](proposal.md) |  | HH, JF, JL |
 |01/29| CS Seminar |  |  |
-|02/03| [Synthesis 1](synthesis.md) |  | Dong, Guo |
-|02/05| [Synthesis 1](synthesis.md) | [hw 2](synthesis.md) | Fillwock, Xu |
-|02/10| [Synthesis 1](synthesis.md) |  | Lim, Lu |
-|02/12| [Synthesis 1](synthesis.md) |  | Finch, He |
-|02/17| [Approach](approach.md) | [hw 3](approach.md) | Dong, Fillwock, Guo, Xu |
-|02/19| [Approach](approach.md) |  | Finch, He, Lim, Lu  |
-|02/24| [Synthesis 2](synthesis.md) |  | Fillwock, Guo |
-|02/26| [Synthesis 2](synthesis.md) |  | Lu, Xu |
-|03/02| [Synthesis 2](synthesis.md) |  | Lim, ? |
-|03/04| [Synthesis 2](synthesis.md) | [hw 4](synthesis.md) | Dong, ? |
+|02/03| [Proposal](proposal.md) |  | LX, SL, SX |
+|02/05| [Synthesis 1](synthesis.md) | [hw 2](synthesis.md) | SF, YG, XD  |
+|02/10| [Synthesis 1](synthesis.md) |  | HH, JF, JL |
+|02/12| [Synthesis 1](synthesis.md) |  | LX, SL, SX |
+|02/17| [Approach](approach.md) | [hw 3](approach.md) | SF, YG, XD |
+|02/19| [Approach](approach.md) |  | HH, JF, JL |
+|02/24| [Approach](approach.md) |  | LX, SL, SX  |
+|02/26| [Synthesis 2](synthesis.md) | [hw 4](synthesis.md) | SF, YG, XD |
+|03/02| [Synthesis 2](synthesis.md) |  | HH, JF, JL |
+|03/04| [Synthesis 2](synthesis.md) |  | LX, SL, SX |
 |03/09| Spring Break |  |  |
 |03/11| Spring Break |  |  |
-|03/16| [Experiment](experiment.md) | [hw 5](experiment.md) | Dong, Guo, ?, ? |
-|03/18| [Experiment](experiment.md) |  | Lim, Lu, Xu, ? |
-|03/23| [Synthesis 3](synthesis.md) |  | Dong, Guo |
-|03/25| [Synthesis 3](synthesis.md) |  | Lu, Xu |
-|03/30| [Synthesis 3](synthesis.md) | [hw 6](synthesis.md) | Fillwock, Lim |
-|04/01| [Synthesis 3](synthesis.md) |  | Finch, He |
-|04/06| [Analysis](analysis.md) | [hw 7](analysis.md) | Dong, Guo, Lu, ? |
-|04/08| [Analysis](analysis.md) |  | Fillwock, Lim, Xu, ? |
-|04/13| TBA |  |  |
-|04/15| TBA |  |  |
-|04/20| [Final](final.md) | [hw 8](final.md) | Dong, Fillwock, Guo, Lu |
-|04/22| [Final](final.md) |  | He, Finch, Lim, Xu |
-|04/27| TBA |  |  |
+|03/16| Peer Study |  |  |
+|03/18| Peer Study |  |  |
+|03/23| [Experiment](experiment.md) | [hw 5](experiment.md) | SF, YG, XD |
+|03/25| [Experiment](experiment.md) |  | HH, JF, JL |
+|03/30| [Experiment](experiment.md) |  | LX, SL, SX |
+|04/01| [Synthesis 3](synthesis.md) | [hw 6](synthesis.md) | SF, YG, XD |
+|04/06| [Synthesis 3](synthesis.md) |  | HH, JF, JL |
+|04/08| [Synthesis 3](synthesis.md) |  | LX, SL, SX |
+|04/13| [Review](review.md) | [hw 7](review.md) |  |
+|04/15| [Review](review.md) |  |  |
+|04/20| [Final](final.md) | [hw 8](final.md) | SF, YG, XD |
+|04/22| [Final](final.md) |  | HH, JF, JL |
+|04/27| [Final](final.md) |  | LX, SL, SX |
+
+HH: Han He,
+JF: James Finch,
+JL: Jiaying Lu,
+LX: Liyan Xu, 
+SF: Sarah Finch,<br>
+SL: Shaun Lim,
+SX: Sonny Xu,
+XD: Xiangjue Dong
+YG: Yuting Guo
+
 
 ## Conferences
 
