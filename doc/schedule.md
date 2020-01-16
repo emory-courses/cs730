@@ -3,7 +3,7 @@
 | Date | Topic | HW | Presenters |
 |:---:|:---:|:---:|:---:|
 |01/13| [Introduction](syllabus.md) | [hw 0](getting_started.md) |  |
-|01/15| Topic Search |  |  |
+|01/15| [Topic Search](topic_search.md) |  |  |
 |01/20| MLK Holiday |  |  |
 |01/22| [Proposal](proposal.md) | [hw 1](proposal.md) | SF, YG, XD |
 |01/27| [Proposal](proposal.md) |  | HH, JF, JL |

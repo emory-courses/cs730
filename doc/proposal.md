@@ -17,7 +17,7 @@ No need to explain them explicitly in this section, which will be done in the `R
 
 ## Presentation
 
-Create slides for a 15-min presentation that comprises the followings:
+Create slides for a 20-min presentation that comprises the followings:
 
 * Problem statement.
 * All the contents from the report.
