@@ -44,7 +44,6 @@ SX: Sonny Xu,
 XD: Xiangjue Dong
 YG: Yuting Guo
 
-
 ## Conferences
 
 | Name | Submission | Acceptance | Event | Location |
