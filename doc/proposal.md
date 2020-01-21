@@ -21,10 +21,10 @@ Create slides for a 20-min presentation that comprises the followings:
 
 * Problem statement.
 * All the contents from the report.
-* Experimental design describing datasets, evalutation metrics, and baseline models.
+* Experimental design describing datasets, evaluation metrics, and baseline models.
 * Timeline: weekly plans of the proposed research towards a specific paper deadline.
 
 ## Submission
 
-* `Introduction` must be 1~1.5 pages (2~3 columns).
+* `Introduction` must be 1-1.5 pages (2-3 columns).
 * Submit the report and the slides in PDF: https://canvas.emory.edu/courses/68418/assignments/292959
