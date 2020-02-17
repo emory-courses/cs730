@@ -55,3 +55,7 @@ YG: Yuting Guo
 | [COLING](https://coling2020.org) | 04/08/2020 | 06/10/2020 | 09/15/2020 | Barcelona, Spain |
 | [EMNLP](https://2020.emnlp.org) | 05/08/2020 | 08/08/2020 | 11/08/2020 | Punta Cana, Dominican Republic |
 | [AACL](http://aacl2020.org) | 06/26/2020 | 09/11/2020 | 12/04/2020 | Suzhou, China |
+
+## Resources
+
+* [Latex Conventions](https://github.com/emorynlp/wiki/blob/master/docs/latex.md)
