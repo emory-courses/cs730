@@ -28,3 +28,15 @@ Create slides for a 20-min presentation that comprises the followings:
 
 * `Introduction` must be 1-1.5 pages (2-3 columns).
 * Submit the report and the slides in PDF: https://canvas.emory.edu/courses/68418/assignments/292959
+
+## Grading Criteria
+
+* Importance of the proposed topic: 1
+* Challenges with the previous work: 1
+* Hypothesis to address those challenges: 1
+* Proposed approaches to support the hypothesis: 1
+* Significance: 1
+* Contributions: 1
+* Citation: 1
+* Presentation: 1
+* Overall: 2

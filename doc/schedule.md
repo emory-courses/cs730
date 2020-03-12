@@ -20,8 +20,8 @@
 |03/04| [Synthesis 2](synthesis.md) |  | LX, SL, SX |
 |03/09| Spring Break |  |  |
 |03/11| Spring Break |  |  |
-|03/16| Peer Study |  |  |
-|03/18| Peer Study |  |  |
+|03/16| Spring Break |  |  |
+|03/18| Spring Break |  |  |
 |03/23| [Experiment](experiment.md) | [hw 5](experiment.md) | SF, YG, XD |
 |03/25| [Experiment](experiment.md) |  | HH, JF, JL |
 |03/30| [Experiment](experiment.md) |  | LX, SL, SX |
